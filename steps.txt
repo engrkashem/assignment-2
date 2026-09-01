@@ -11,3 +11,9 @@ Required for each project (for the first time):
     * git branch -M main
     * git remote add origin https://github.com/engrkashem/assignment-2.git
     * git push -u origin main
+
+for every change/modification in the project:
+    * git add .
+    * git commit -m "Hello world printing added"
+    * git push
+
