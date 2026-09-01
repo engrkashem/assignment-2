@@ -1,0 +1,13 @@
+One time in any local machine
+    * install git
+    * check git in local machine: git --version
+    * git config --global user.name "your_name"
+    * git config --global user.email "your_github_acc_email"
+
+Required for each project (for the first time):
+    * git init
+    * git add .
+    * git commit -m "initialize the project"
+    * git branch -M main
+    * git remote add origin https://github.com/engrkashem/assignment-2.git
+    * git push -u origin main
